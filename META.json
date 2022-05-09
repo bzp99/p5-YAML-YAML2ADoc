@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/bzp99/p5-YAML-YAML2ADoc/issues"
+      },
+      "homepage" : "https://github.com/bzp99/p5-YAML-YAML2ADoc",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/bzp99/p5-YAML-YAML2ADoc.git",
+         "web" : "https://github.com/bzp99/p5-YAML-YAML2ADoc"
+      }
+   },
    "version" : "0.1.0",
    "x_generated_by_perl" : "v5.32.1",
    "x_serialization_backend" : "Cpanel::JSON::XS version 4.27",
