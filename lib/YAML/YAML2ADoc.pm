@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use v5.32;
 use experimental qw(switch);
-our $VERSION = '0.01';
+our $VERSION = '0.1.0';
 
 use enum qw(TEXT YAML);
 use constant {
